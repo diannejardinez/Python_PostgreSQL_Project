@@ -1,4 +1,4 @@
-# Python_PostgreSQL_Project
+# Python & PostgreSQL Project
 
 **Objective**
 Python and PostgreSQL refresher projects aimed at understanding PostgreSQL and integrating it with Python applications
