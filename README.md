@@ -1,7 +1,7 @@
 # Python & PostgreSQL Project
 
 **Objective**
-Python and PostgreSQL refresher projects aimed at understanding PostgreSQL and integrating it with Python applications
+Python and PostgreSQL refresher projects aimed at integrating PostgreSQL with Python applications
 
 ### Project 1: 
 - Programming journal with SQLite database
