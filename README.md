@@ -15,6 +15,6 @@ Python and PostgreSQL refresher projects aimed at integrating PostgreSQL with Py
 ### Project - PostgreSQL: 
 - Polling app with PostgreSQL
 
-### Python refresher
+##### Python refresher
 - Python mini-projects
 - Programming Journal

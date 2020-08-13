@@ -1,4 +1,4 @@
-#  Creating entries list to host the logic that interacts with our data store
+#  database.py s database store file
 
 entries = []
 

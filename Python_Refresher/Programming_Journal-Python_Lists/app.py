@@ -1,4 +1,6 @@
-# Objective: Creating programming journal
+# Objective: Creating journal with python list as a simple database
+
+# app.py is the logic for the journal
 
 # Importing database.py to connect it to app.py
 from database import add_entry, get_entries
@@ -29,15 +31,6 @@ def prompt_view_entry(entries):
     # Printing out all entries currently in the programming journal
     for entry in entries:
         print(f"{entry['date']}\n{entry['content']}\n\n")
-
-
-# # Using Python ists as an in-memory database
-# entries = [
-#     {"content": "Today I started learning programming.", "date": "02-11-2020"},
-#     {"content": "I created my first SQLite database!", "date": "04-16-2020"},
-#     {"content": "Today I'm going to continue learning programming", "date": "08-13-2020"},
-#     {"content": "I finished writing my programming journal application", "date": "08-13-2020"}
-# ]
 
 
 # User input for menu option
