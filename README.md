@@ -1,4 +1,4 @@
-# Python & PostgreSQL Project
+# Python Project
 
 
 **Objective**
