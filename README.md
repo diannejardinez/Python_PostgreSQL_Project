@@ -5,6 +5,6 @@
 Python refresher projects 
 
 ### Python mini-projects
-	- if statement, for loop, while loop, lists, dictionaries, functions
+- if statement, for loop, while loop, lists, dictionaries, functions
 ### Programming Journal
-	- journal with python list as a simple database
+- journal with python list as a simple database
