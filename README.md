@@ -1,20 +1,10 @@
 # Python & PostgreSQL Project
 
-<!-- **Objective**
-Python and PostgreSQL refresher projects aimed at integrating PostgreSQL with Python applications -->
-
-<!-- ### Project 1: 
-- Programming journal with SQLite database
-
-### Project 2:
-- Two movie watch-list apps with PostgreSQL and SQLite -->
 
 **Objective**
-Python and PostgreSQL refresher projects aimed at integrating PostgreSQL with Python applications
+Python refresher projects 
 
-### Project - PostgreSQL: 
-- Polling app with PostgreSQL
-
-#### Python refresher
-- Python mini-projects
-- Programming Journal
+### Python mini-projects
+	- if statement, for loop, while loop, lists, dictionaries, functions
+### Programming Journal
+	- journal with python list as a simple database
