@@ -9,5 +9,5 @@ Python refresher projects
 ### Programming Journal
 - Journal with python list as a simple database
 - How to run:
-	- git clone this repo and go into 'Programming_Journal' directory
+	- git clone this repo and go into `Programming_Journal` directory
 	- enter `python app.py` 
